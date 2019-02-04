@@ -5,7 +5,7 @@ markdown:            kramdown
 highlighter:         rouge
 
 # Permalinks
-permalink:           /:title
+permalink:           /:title.html
 # relative_permalinks: true
 
 # Setup
@@ -13,7 +13,7 @@ timezone:            Europe/Berlin # eg. Asia/Kathmandu
 locale:              en_us # eg. en_us
 name:				         Feierabend Crew
 title:               Feierabend Crew
-tagline:             'tagline'
+tagline:             'Sit back relax and play.'
 description:         'Sit back relax and play.'
 url:                 https://feierabend-crew.com/
 # rss:                 rss feed url
@@ -52,5 +52,5 @@ defaults:
     values:
       layout: "default"
 
-plugins:
-  - jekyll-seo-tag
+# plugins:
+#   - jekyll-seo-tag

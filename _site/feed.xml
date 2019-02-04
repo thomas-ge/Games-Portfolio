@@ -7,25 +7,47 @@
 		<atom:link href="https://feierabend-crew.com//feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Studio Name Creator</title>
+				
+				
+					<description>Still did not find an awesome name for your very own studio?</description>
+				
+				<pubDate>Sat, 01 Dec 2018 13:00:00 +0100</pubDate>
+				<link>https://feierabend-crew.com//studio-names.html</link>
+				<guid isPermaLink="true">https://feierabend-crew.com//studio-names.html</guid>
+			</item>
+		
+			<item>
+				<title>Ideatify</title>
+				
+				
+					<description>Get your game development rollin' with this idea generator.</description>
+				
+				<pubDate>Sat, 01 Dec 2018 13:00:00 +0100</pubDate>
+				<link>https://feierabend-crew.com//ideatify.html</link>
+				<guid isPermaLink="true">https://feierabend-crew.com//ideatify.html</guid>
+			</item>
+		
+			<item>
 				<title>The Friends We Are</title>
 				
 				
 					<description>A road trip game for two friends experiencing the most adventurous situations.</description>
 				
 				<pubDate>Sat, 01 Dec 2018 13:00:00 +0100</pubDate>
-				<link>https://feierabend-crew.com//the-friends-we-are</link>
-				<guid isPermaLink="true">https://feierabend-crew.com//the-friends-we-are</guid>
+				<link>https://feierabend-crew.com//the-friends-we-are.html</link>
+				<guid isPermaLink="true">https://feierabend-crew.com//the-friends-we-are.html</guid>
 			</item>
 		
 			<item>
 				<title>Feierabend Heroes</title>
 				
 				
-					<description>A competitive fantasy Hack‘n‘Slay with mini games.</description>
+					<description>A competitive fantasy Hack‘n‘Slay Battle Royale with skill development.</description>
 				
 				<pubDate>Mon, 01 Oct 2018 14:00:00 +0200</pubDate>
-				<link>https://feierabend-crew.com//feierabend-heroes</link>
-				<guid isPermaLink="true">https://feierabend-crew.com//feierabend-heroes</guid>
+				<link>https://feierabend-crew.com//feierabend-heroes.html</link>
+				<guid isPermaLink="true">https://feierabend-crew.com//feierabend-heroes.html</guid>
 			</item>
 		
 			<item>
@@ -35,8 +57,8 @@
 					<description>A competitive platform racer with surprising events.</description>
 				
 				<pubDate>Fri, 01 Jun 2018 14:00:00 +0200</pubDate>
-				<link>https://feierabend-crew.com//runner-runner</link>
-				<guid isPermaLink="true">https://feierabend-crew.com//runner-runner</guid>
+				<link>https://feierabend-crew.com//runner-runner.html</link>
+				<guid isPermaLink="true">https://feierabend-crew.com//runner-runner.html</guid>
 			</item>
 		
 			<item>
@@ -46,8 +68,8 @@
 					<description>A ridiculous drinking RPG board game for close friends.</description>
 				
 				<pubDate>Sun, 01 Apr 2018 14:00:00 +0200</pubDate>
-				<link>https://feierabend-crew.com//drinks-and-dragons</link>
-				<guid isPermaLink="true">https://feierabend-crew.com//drinks-and-dragons</guid>
+				<link>https://feierabend-crew.com//drinks-and-dragons.html</link>
+				<guid isPermaLink="true">https://feierabend-crew.com//drinks-and-dragons.html</guid>
 			</item>
 		
 			<item>
@@ -57,8 +79,8 @@
 					<description>An insanely short racing game for players who love competition.</description>
 				
 				<pubDate>Thu, 01 Feb 2018 13:00:00 +0100</pubDate>
-				<link>https://feierabend-crew.com//simple</link>
-				<guid isPermaLink="true">https://feierabend-crew.com//simple</guid>
+				<link>https://feierabend-crew.com//simple.html</link>
+				<guid isPermaLink="true">https://feierabend-crew.com//simple.html</guid>
 			</item>
 		
 	</channel>

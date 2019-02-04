@@ -3169,4 +3169,12 @@ a:hover .interaction {
   .button-wrapper {
     float: none;
   }
+
+  .menuWrapper {
+    top: 10px;
+  }
+
+  .sidebar-toggle-wrapper {
+    top: 10px;
+  }
 }

@@ -66,8 +66,8 @@ syntaxHighlighter: no
       </div>
     </a>
     <div class="gap"></div>
-    <a target="_blank">
-      <div class="git-button disabled-btn" style="cursor: not-allowed;">
+    <a href="https://github.com/thomas-theux/DrinksAndDragons" target="_blank">
+      <div class="git-button interaction">
         <h5 style="line-height: 1.3rem;">🤓GitHub Page</h5>
       </div>
     </a>
@@ -75,17 +75,25 @@ syntaxHighlighter: no
 </div>
 
 <div class="card-wrapper picture">
-  <img src="assets/images/games/dd/dd-3-ingame.jpg">
+  <a href="https://feierabend-crew.com/assets/images/games/dd/dd-3-ingame.jpg">
+    <img src="assets/images/games/dd/dd-3-ingame.jpg">
+  </a>
 </div>
 
 <div class="card-wrapper picture">
+  <a href="https://feierabend-crew.com/assets/images/games/dd/dd-4-skills.jpg">
   <img src="assets/images/games/dd/dd-4-skills.jpg">
+</a>
 </div>
 
 <div class="card-wrapper picture">
+  <a href="https://feierabend-crew.com/assets/images/games/dd/dd-5-card.jpg">
   <img src="assets/images/games/dd/dd-5-card.jpg">
+</a>
 </div>
 
 <div class="card-wrapper picture">
+  <a href="https://feierabend-crew.com/assets/images/games/dd/dd-1-rmv.jpg">
   <img src="assets/images/games/dd/dd-1-rmv.jpg">
+</a>
 </div>

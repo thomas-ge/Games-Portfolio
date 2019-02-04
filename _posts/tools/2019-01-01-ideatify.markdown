@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Ideatify"
+category: Tools
+date:   2018-12-01 12:00:00
+excerpt: "Get your game development rollin' with this idea generator."
+image:
+  feature: ideatify.jpg
+  topPosition: 0px
+syntaxHighlighter: no
+link: https://feierabend-crew.com/tools/ideatify
+---

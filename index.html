@@ -23,7 +23,7 @@ title: Feierabend Crew
 
 <section class="section--postsWrapper">
   <div class="container">
-    <h2>📝 Work in Progress</h2>
+    <h2>📝 Current Project</h2>
     <div class="blockGroup">
       <ul class="blockGroup-list challenges">
         {% for post in site.categories.Current %}
@@ -75,6 +75,39 @@ title: Feierabend Crew
                 </a>
                 {% endif %}
                 <a class="postArticle-title" href="{{ post.url }}">{{ post.title }}</a>
+              </article>
+              <!-- <div class="block-postMeta">{{ post.date | date_to_string }}</div> -->
+              <div class="block-postMeta">{{ post.excerpt | xml_escape }}</div>
+            </div>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+    <hr>
+  </div>
+</section>
+
+<section class="section--postsWrapper">
+  <div class="container">
+    <h2>🚀 Start Your Game</h2>
+    <div class="blockGroup">
+      <ul class="blockGroup-list">
+        {% for post in site.categories.Tools %}
+          <li class="block">
+            <div class="postArticle-wrapper">
+              <article class="postArticle postArticle--short">
+                {% if post.image.feature %}
+                  <a href="{{ post.link }}" target="_blank">
+                    <div class="postArticle-image desaturate" style="background-image:url('{{ post.image.feature | prepend: site.baseurl_featured_img }}')">
+                    </div>
+                  </a>
+                {% else %}
+                <a href="{{ post.link }}" target="_blank">
+                  <div class="postArticle-image" style="background-image:url('{{site.baseurl}}assets/images/logo-black.svg')">
+                  </div>
+                </a>
+                {% endif %}
+                <a class="postArticle-title" href="{{ post.link }}" target="_blank">{{ post.title }}</a>
               </article>
               <!-- <div class="block-postMeta">{{ post.date | date_to_string }}</div> -->
               <div class="block-postMeta">{{ post.excerpt | xml_escape }}</div>

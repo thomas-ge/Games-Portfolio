@@ -64,8 +64,8 @@ syntaxHighlighter: no
       </div>
     </a>
     <div class="gap"></div>
-    <a target="_blank">
-      <div class="git-button disabled-btn" style="cursor: not-allowed;">
+    <a href="https://github.com/thomas-theux/RunnerRunner" target="_blank">
+      <div class="git-button interaction">
         <h5 style="line-height: 1.3rem;">🤓GitHub Page</h5>
       </div>
     </a>
@@ -73,7 +73,9 @@ syntaxHighlighter: no
 </div>
 
 <div class="card-wrapper picture">
-  <img src="assets/images/games/rr/rr-1-level.jpg">
+  <a href="https://feierabend-crew.com/assets/images/games/rr/rr-1-level.jpg">
+    <img src="assets/images/games/rr/rr-1-level.jpg">
+  </a>
 </div>
 
 <div class="card-wrapper picture video-mask">
@@ -81,15 +83,21 @@ syntaxHighlighter: no
 </div>
 
 <div class="card-wrapper picture">
-  <img src="assets/images/games/rr/rr-3-dude.jpg">
+  <a href="https://feierabend-crew.com/assets/images/games/rr/rr-3-dude.jpg">
+    <img src="assets/images/games/rr/rr-3-dude.jpg">
+  </a>
 </div>
 
 <div class="card-wrapper picture">
-  <img src="assets/images/games/rr/rr-4-3dmodel.jpg">
+  <a href="https://feierabend-crew.com/assets/images/games/rr/rr-4-3dmodel.jpg">
+    <img src="assets/images/games/rr/rr-4-3dmodel.jpg">
+  </a>
 </div>
 
 <div class="card-wrapper picture">
-  <img src="assets/images/games/rr/rr-5-sketch-ui.jpg">
+  <a href="https://feierabend-crew.com/assets/images/games/rr/rr-5-sketch-ui.jpg">
+    <img src="assets/images/games/rr/rr-5-sketch-ui.jpg">
+  </a>
 </div>
 
 <div class="card-wrapper picture video-mask">
@@ -97,5 +105,7 @@ syntaxHighlighter: no
 </div>
 
 <div class="card-wrapper picture">
-  <img src="assets/images/games/rr/rr-7-level-unity.jpg">
+  <a href="https://feierabend-crew.com/assets/images/games/rr/rr-7-level-unity.jpg">
+    <img src="assets/images/games/rr/rr-7-level-unity.jpg">
+  </a>
 </div>
