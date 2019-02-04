@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Feierabend Crew</title>
+		<description>Sit back relax and play.</description>
+		<link>https://feierabend-crew.com/</link>
+		<atom:link href="https://feierabend-crew.com//feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>The Friends We Are</title>
+				
+				
+					<description>A road trip game for two friends experiencing the most adventurous situations.</description>
+				
+				<pubDate>Sat, 01 Dec 2018 13:00:00 +0100</pubDate>
+				<link>https://feierabend-crew.com//the-friends-we-are</link>
+				<guid isPermaLink="true">https://feierabend-crew.com//the-friends-we-are</guid>
+			</item>
+		
+			<item>
+				<title>Feierabend Heroes</title>
+				
+				
+					<description>A competitive fantasy Hack‘n‘Slay with mini games.</description>
+				
+				<pubDate>Mon, 01 Oct 2018 14:00:00 +0200</pubDate>
+				<link>https://feierabend-crew.com//feierabend-heroes</link>
+				<guid isPermaLink="true">https://feierabend-crew.com//feierabend-heroes</guid>
+			</item>
+		
+			<item>
+				<title>Runner Runner</title>
+				
+				
+					<description>A competitive platform racer with surprising events.</description>
+				
+				<pubDate>Fri, 01 Jun 2018 14:00:00 +0200</pubDate>
+				<link>https://feierabend-crew.com//runner-runner</link>
+				<guid isPermaLink="true">https://feierabend-crew.com//runner-runner</guid>
+			</item>
+		
+			<item>
+				<title>Drinks &amp; Dragons</title>
+				
+				
+					<description>A ridiculous drinking RPG board game for close friends.</description>
+				
+				<pubDate>Sun, 01 Apr 2018 14:00:00 +0200</pubDate>
+				<link>https://feierabend-crew.com//drinks-and-dragons</link>
+				<guid isPermaLink="true">https://feierabend-crew.com//drinks-and-dragons</guid>
+			</item>
+		
+			<item>
+				<title>Simple</title>
+				
+				
+					<description>An insanely short racing game for players who love competition.</description>
+				
+				<pubDate>Thu, 01 Feb 2018 13:00:00 +0100</pubDate>
+				<link>https://feierabend-crew.com//simple</link>
+				<guid isPermaLink="true">https://feierabend-crew.com//simple</guid>
+			</item>
+		
+	</channel>
+</rss>
