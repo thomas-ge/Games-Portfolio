@@ -13,14 +13,14 @@ timezone:            Europe/Berlin # eg. Asia/Kathmandu
 locale:              en_us # eg. en_us
 name:				         Feierabend Crew
 title:               Feierabend Crew
-tagline:             'Sit back relax and play.'
-description:         'Sit back relax and play.'
+tagline:             '🛋 Sit back — 🤤 Relax — 🎮 And play'
+description:         'The Feierabend Crew believes in couch games.'
 url:                 https://feierabend-crew.com/
 # rss:                 rss feed url
 baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
-baseurl_featured_thumbnail: '/assets/images/thumbnail/'
+# baseurl_featured_thumbnail: '/assets/images/thumbnail/'
 baseurl_javascripts: '/assets/javascripts/'
 # icon:                your site icon path # /assets/img/icon.png [best 300px X 300px]
 # disqus:              disqus_shortname # get it on https://disqus.com/admin/
