@@ -50,10 +50,10 @@ syntaxHighlighter: no
   <br>
   <p>
     <div class="bar">
-      <div class="bar progress" style="width: 70%;"></div>
+      <div class="bar progress" style="width: 60%;"></div>
     </div>
   </p>
-  <h6 style="margin: -2px 0 0 0;">Status – 70% Done</h6>
+  <h6 style="margin: -2px 0 0 0;">Status – 60% Done</h6>
 </div>
 
 <div class="card-wrapper genre paddings" style="text-align: center;">
