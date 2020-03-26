@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157186197-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-157186197-1');
+        </script>
+
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+        <!-- Social Media Tags -->
+        <meta property="og:title" content="Super Awesome Team Name Creator" />
+        <meta property="og:url" content="https://feierabend-crew.com/tools/team-name-creator/" />
+        <meta property="og:type" content="website" />
+        <meta property="og:description" content="Looking for a team name that catches everyones attention? Here’s some inspiration :)" />
+        <meta property="og:image" content="https://feierabend-crew.com/assets/images/feierabend-crew.png" />
+
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@feierabendcrew" />
+        <meta name="twitter:title" content="Super Awesome Team Name Creator" />
+        <meta name="twitter:description" content="Looking for a team name that catches everyones attention? Here’s some inspiration :)" />
+        <meta name="twitter:url" content="https://feierabend-crew.com/tools/team-name-creator/" />
+        <meta name="twitter:image" content="https://feierabend-crew.com/assets/images/feierabend-crew.png" />
+        <!-- Social Media Tags -->
+
+        <title>Super Awesome Team Name Creator</title>
+
+        <script src="generate.js"></script>
+        <link rel="stylesheet" type="text/css" href="style.css" />
+
+        <link href="https://fonts.googleapis.com/css?family=Rubik:300,700" rel="stylesheet">
+
+        <link rel="shortcut icon" href="../../assets/images/favicon.png">
+    </head>
+
+    <body onkeydown = "if (event.keyCode == 32) window.location.reload()">
+
+        <div id="head">
+            <div class="logo">
+                <a href="https://feierabend-crew.com/">
+                    <img src="../../assets/images/feierabend-crew.png">
+                </a>
+            </div>
+
+            <h1>Super Awesome Team Name Creator</h1>
+        </div>
+
+        <!-- <div id="twitter">
+            <a href="https://twitter.com/feierabendcrew?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="false" data-dnt="true" data-show-count="false">Follow @feierabendcrew</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div> -->
+
+        <div id="generator">
+            <script type="text/javascript">generateName();</script>
+            <div class="company">
+                <script type="text/javascript">showCompany();</script>
+            </div>
+        </div>
+
+        <div id="interaction">
+            <a class="button" onClick="window.location.reload()">Gimme another one</a>
+        </div>
+        <p>- or press (space) -</p>
+
+        <div id="social-container">
+            <div class="socials">
+                <a href="https://twitter.com/feierabendcrew" target="_blank">
+                    <img src="img/twitter.svg">
+                </a>
+            </div>
+
+            <div class="socials">
+                <a href="https://www.instagram.com/feierabendcrew/" target="_blank">
+                    <img src="img/instagram.png">
+                </a>
+            </div>
+        </div>
+
+    </body>
+</html>

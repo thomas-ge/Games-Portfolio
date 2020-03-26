@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="344px" height="609px" viewBox="0 0 344 609" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>smartphone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="7 0.12578948 236.911939 0 208.351157 55.7173748 0.223995736 448.20583"></polygon>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="100%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="10%"></stop>
+            <stop stop-color="#FFFFFF" offset="90%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-4" points="-5.68434189e-14 611.125789 343.911939 611 343 6 261 0 214.094443 52.1673998 0.83392495 453.252101"></polygon>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons-with-Shadow" transform="translate(-92.000000, -62.000000)">
+            <g id="smartphone" transform="translate(85.000000, 59.000000)">
+                <g id="small" opacity="0.300000012" transform="translate(0.000000, 1.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Mask" opacity="0.5"></g>
+                    <g id="smartphone-symbol" mask="url(#mask-2)">
+                        <g transform="translate(3.000000, -12.000000)">
+                            <g>
+                                <rect id="Rectangle-14" stroke="#FFFFFF" stroke-width="8" x="49" y="74" width="262" height="472" rx="40"></rect>
+                                <rect id="Rectangle" stroke="#FFFFFF" stroke-width="2" x="131" y="91" width="78" height="8" rx="4"></rect>
+                                <rect id="Rectangle-2" stroke="#FFFFFF" stroke-width="2" x="66" y="111" width="228" height="378" rx="10"></rect>
+                                <rect id="Rectangle-3" stroke="#FFFFFF" stroke-width="2" x="221" y="91" width="8" height="8" rx="4"></rect>
+                                <rect id="Rectangle-4" stroke="#FFFFFF" stroke-width="2" x="161" y="497" width="38" height="38" rx="19"></rect>
+                                <g id="Group-Copy" opacity="0.800000012" fill="url(#linearGradient-3)">
+                                    <rect id="Rectangle-5" x="10" y="70" width="340" height="1"></rect>
+                                    <rect id="Rectangle-5" x="10" y="110" width="340" height="1"></rect>
+                                    <rect id="Rectangle-5" x="97" y="90" width="150" height="1"></rect>
+                                    <rect id="Rectangle-5" x="107" y="99" width="150" height="1"></rect>
+                                    <rect id="Rectangle-5" x="0" y="489" width="350" height="1"></rect>
+                                    <rect id="Rectangle-5" x="14" y="549" width="340" height="1"></rect>
+                                    <rect id="Rectangle-5" x="14" y="310" width="340" height="1"></rect>
+                                    <rect id="Rectangle-5" transform="translate(46.500000, 330.000000) rotate(90.000000) translate(-46.500000, -330.000000) " x="-253.5" y="329.5" width="600" height="1"></rect>
+                                    <rect id="Rectangle-5" transform="translate(180.500000, 330.000000) rotate(90.000000) translate(-180.500000, -330.000000) " x="-119.5" y="329.5" width="600" height="1"></rect>
+                                    <rect id="Rectangle-5" transform="translate(314.500000, 300.000000) rotate(90.000000) translate(-314.500000, -300.000000) " x="14.5" y="299.5" width="600" height="1"></rect>
+                                    <rect id="Rectangle-5" transform="translate(295.500000, 305.000000) rotate(90.000000) translate(-295.500000, -305.000000) " x="70.5" y="304.5" width="450" height="1"></rect>
+                                    <rect id="Rectangle-5" transform="translate(65.500000, 312.000000) rotate(90.000000) translate(-65.500000, -312.000000) " x="-159.5" y="311.5" width="450" height="1"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="big" transform="translate(7.000000, 0.000000)">
+                    <mask id="mask-5" fill="white">
+                        <use xlink:href="#path-4"></use>
+                    </mask>
+                    <g id="Mask" opacity="0.5"></g>
+                    <g id="smartphone-symbol" mask="url(#mask-5)">
+                        <g transform="translate(-4.000000, -11.000000)">
+                            <g>
+                                <rect id="Rectangle-14" stroke="#FFFFFF" stroke-width="8" x="49" y="74" width="262" height="472" rx="40"></rect>
+                                <rect id="Rectangle" stroke="#FFFFFF" stroke-width="2" x="131" y="91" width="78" height="8" rx="4"></rect>
+                                <rect id="Rectangle-2" stroke="#FFFFFF" stroke-width="2" x="66" y="111" width="228" height="378" rx="10"></rect>
+                                <rect id="Rectangle-3" stroke="#FFFFFF" stroke-width="2" x="221" y="91" width="8" height="8" rx="4"></rect>
+                                <rect id="Rectangle-4" stroke="#FFFFFF" stroke-width="2" x="161" y="497" width="38" height="38" rx="19"></rect>
+                                <g id="Group-Copy" opacity="0.800000012" fill="url(#linearGradient-3)">
+                                    <rect id="Rectangle-5" x="10" y="70" width="340" height="1"></rect>
+                                    <rect id="Rectangle-5" x="10" y="110" width="340" height="1"></rect>
+                                    <rect id="Rectangle-5" x="97" y="90" width="150" height="1"></rect>
+                                    <rect id="Rectangle-5" x="107" y="99" width="150" height="1"></rect>
+                                    <rect id="Rectangle-5" x="0" y="489" width="350" height="1"></rect>
+                                    <rect id="Rectangle-5" x="14" y="549" width="340" height="1"></rect>
+                                    <rect id="Rectangle-5" x="14" y="310" width="340" height="1"></rect>
+                                    <rect id="Rectangle-5" transform="translate(46.500000, 330.000000) rotate(90.000000) translate(-46.500000, -330.000000) " x="-253.5" y="329.5" width="600" height="1"></rect>
+                                    <rect id="Rectangle-5" transform="translate(180.500000, 330.000000) rotate(90.000000) translate(-180.500000, -330.000000) " x="-119.5" y="329.5" width="600" height="1"></rect>
+                                    <rect id="Rectangle-5" transform="translate(314.500000, 300.000000) rotate(90.000000) translate(-314.500000, -300.000000) " x="14.5" y="299.5" width="600" height="1"></rect>
+                                    <rect id="Rectangle-5" transform="translate(295.500000, 305.000000) rotate(90.000000) translate(-295.500000, -305.000000) " x="70.5" y="304.5" width="450" height="1"></rect>
+                                    <rect id="Rectangle-5" transform="translate(65.500000, 312.000000) rotate(90.000000) translate(-65.500000, -312.000000) " x="-159.5" y="311.5" width="450" height="1"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

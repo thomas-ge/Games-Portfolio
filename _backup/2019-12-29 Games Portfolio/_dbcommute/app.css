@@ -1,0 +1,87 @@
+body {
+	margin: 0;
+	font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+	-webkit-font-smoothing: antialiased;
+	overflow-x: hidden;
+}
+
+header {
+	height: 110px;
+	background: rgba(255, 0, 0, 1);
+	color: rgba(255, 255, 255, 1);
+	position: fixed;
+	width: 100%;
+	z-index: 2;
+}
+
+header, main {
+	padding: 0 15px;
+	box-sizing: border-box;
+}
+
+main {
+	margin-bottom: 25px;
+	position: relative;
+	z-index: 1;
+	margin-top: 110px;
+}
+
+h1 {
+	font-weight: 700;
+	margin: 0;
+	font-size: 30px;
+}
+
+h2 {
+	font-weight: 700;
+	font-size: 22px;
+	color: rgba(255, 255, 255, 0.5);
+}
+
+header h1 {
+	position: absolute;
+	bottom: 15px;
+}
+
+section {
+	padding: 25px 0;
+	border-bottom: 1px solid rgba(230, 230, 230, 1);
+}
+
+section span {
+	color: rgba(166, 166, 166, 1);
+}
+
+span.delay {
+	color: rgba(255, 0, 0, 1);
+}
+
+#detail {
+	padding: 25px;
+	box-sizing: border-box;
+	width: calc(100% - 30px);
+	position: fixed;
+	top: calc(50% - 105px);
+	left: 15px;
+	background-color: rgba(255, 255, 255, 1);
+	box-shadow: 0 10px 50px 0 rgba(0, 0, 0, 0.35);
+	border-radius: 5px;
+	transform: scale(0);
+}
+
+#detail section {
+	border: none;
+	padding: 0;
+}
+
+#detail section:first-child {
+	padding-bottom: 50px;
+}
+
+#blurMask {
+	position: absolute;
+	filter: blur(0);
+	background-color: rgba(0, 0, 0, 0);
+	width: 100%;
+	min-height: 100%;
+}

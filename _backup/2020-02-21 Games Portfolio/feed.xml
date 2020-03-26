@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Feierabend Crew</title>
+		<description>The Feierabend Crew believes in couch games.</description>
+		<link>http://localhost:9001</link>
+		<atom:link href="http://localhost:9001/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Runner Runner</title>
+				
+				
+					<description>A competitive platform racer with surprising events.</description>
+				
+				<pubDate>Sat, 28 Dec 2019 13:00:00 +0100</pubDate>
+				<link>http://localhost:9001/runner-runner.html</link>
+				<guid isPermaLink="true">http://localhost:9001/runner-runner.html</guid>
+			</item>
+		
+			<item>
+				<title>Studio Name Creator</title>
+				
+				
+					<description>Still did not find an awesome name for your very own studio?</description>
+				
+				<pubDate>Sat, 01 Dec 2018 13:00:00 +0100</pubDate>
+				<link>http://localhost:9001/studio-names.html</link>
+				<guid isPermaLink="true">http://localhost:9001/studio-names.html</guid>
+			</item>
+		
+			<item>
+				<title>Ideatify</title>
+				
+				
+					<description>Get your game development rollin' with this idea generator.</description>
+				
+				<pubDate>Sat, 01 Dec 2018 13:00:00 +0100</pubDate>
+				<link>http://localhost:9001/ideatify.html</link>
+				<guid isPermaLink="true">http://localhost:9001/ideatify.html</guid>
+			</item>
+		
+			<item>
+				<title>The Friends We Are</title>
+				
+				
+					<description>A road trip game for two friends experiencing the most adventurous situations.</description>
+				
+				<pubDate>Sat, 01 Dec 2018 13:00:00 +0100</pubDate>
+				<link>http://localhost:9001/the-friends-we-are.html</link>
+				<guid isPermaLink="true">http://localhost:9001/the-friends-we-are.html</guid>
+			</item>
+		
+			<item>
+				<title>Feierabend Heroes</title>
+				
+				
+					<description>A competitive fantasy Hack‘n‘Slay Battle Royale with skill development.</description>
+				
+				<pubDate>Mon, 01 Oct 2018 14:00:00 +0200</pubDate>
+				<link>http://localhost:9001/feierabend-heroes.html</link>
+				<guid isPermaLink="true">http://localhost:9001/feierabend-heroes.html</guid>
+			</item>
+		
+			<item>
+				<title>Drinks &amp; Dragons</title>
+				
+				
+					<description>A ridiculous drinking RPG board game for close friends.</description>
+				
+				<pubDate>Sun, 01 Apr 2018 14:00:00 +0200</pubDate>
+				<link>http://localhost:9001/drinks-and-dragons.html</link>
+				<guid isPermaLink="true">http://localhost:9001/drinks-and-dragons.html</guid>
+			</item>
+		
+			<item>
+				<title>Simple</title>
+				
+				
+					<description>An insanely short racing game for players who love competition.</description>
+				
+				<pubDate>Thu, 01 Feb 2018 13:00:00 +0100</pubDate>
+				<link>http://localhost:9001/simple.html</link>
+				<guid isPermaLink="true">http://localhost:9001/simple.html</guid>
+			</item>
+		
+	</channel>
+</rss>

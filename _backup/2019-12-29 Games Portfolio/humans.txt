@@ -1,0 +1,23 @@
+/* PROJECT */
+
+	Site Name:   Feierabend Crew
+	Site URL:    https://feierabend-crew.com/
+	Created:     2019/03/03
+
+/* AUTHOR */
+
+	Name:        Thomas Grikschas
+	Nickname:    Theux
+	Title:       UX Designer
+	Location:    Stuttgart, Germany
+	Site:        http://thomas-the-ux.com/
+	Blog:        https://journal.feierabend-crew.com/
+
+/* SOCIAL */
+
+	Twitter:     https://twitter.com/feierabendcrew
+	Instagram:   https://www.instagram.com/feierabendcrew/
+
+/* THANKS */
+
+	To all friends and family and especially to my girlfriend <3

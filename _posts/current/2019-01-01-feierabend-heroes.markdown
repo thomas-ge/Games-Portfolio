@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Feierabend Heroes"
-category: Current
+category: Games
 date:   2018-10-01 12:00:00
 excerpt: "A competitive fantasy Hack‘n‘Slay Battle Royale with skill development."
 image:
@@ -50,10 +50,10 @@ syntaxHighlighter: no
   <br>
   <p>
     <div class="bar">
-      <div class="bar progress" style="width: 60%;"></div>
+      <div class="bar progress" style="width: 80%;"></div>
     </div>
   </p>
-  <h6 style="margin: -2px 0 0 0;">Status – 60% Done</h6>
+  <h6 style="margin: -2px 0 0 0;">Status – 80% Done</h6>
 </div>
 
 <div class="card-wrapper genre paddings" style="text-align: center;">
@@ -76,20 +76,36 @@ syntaxHighlighter: no
   </div>
 </div>
 
-<div class="card-wrapper picture">
-  <a href="https://feierabend-crew.com/assets/images/games/fh/fh-1-4players.jpg">
-    <img src="assets/images/games/fh/fh-1-4players.jpg">
-  </a>
+<div class="card-wrapper picture video-mask">
+  <video controls width="100%" src="assets/images/games/fh/fh-0-teaser.mov"></video>
 </div>
 
 <div class="card-wrapper picture">
-  <a href="https://feierabend-crew.com/assets/images/games/fh/fh-2-level.jpg">
-    <img src="assets/images/games/fh/fh-2-level.jpg">
+  <a href="https://feierabend-crew.com/assets/images/games/fh/fh-1-explore.gif">
+    <img src="assets/images/games/fh/fh-1-explore.gif" alt="Exploring the level">
   </a>
 </div>
 
 <div class="card-wrapper picture">
   <a href="https://feierabend-crew.com/assets/images/games/fh/fh-3-skills.jpg">
-    <img src="assets/images/games/fh/fh-3-skills.jpg">
+    <img src="assets/images/games/fh/fh-3-skills.jpg" alt="The skillboard to improve the character">
+  </a>
+</div>
+
+<div class="card-wrapper picture">
+  <a href="https://feierabend-crew.com/assets/images/games/fh/fh-1-4players.jpg">
+    <img src="assets/images/games/fh/fh-1-4players.jpg" alt="4 player local multiplayer">
+  </a>
+</div>
+
+<div class="card-wrapper picture">
+  <a href="https://feierabend-crew.com/assets/images/games/fh/fh-4-win.gif">
+    <img src="assets/images/games/fh/fh-4-win.gif" alt="Winning a round of Feierabend Heroes">
+  </a>
+</div>
+
+<div class="card-wrapper picture">
+  <a href="https://feierabend-crew.com/assets/images/games/fh/fh-2-level.jpg">
+    <img src="assets/images/games/fh/fh-2-level.jpg" alt="Unity level design">
   </a>
 </div>

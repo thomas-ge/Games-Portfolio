@@ -76,24 +76,24 @@ syntaxHighlighter: no
 
 <div class="card-wrapper picture">
   <a href="https://feierabend-crew.com/assets/images/games/dd/dd-3-ingame.jpg">
-    <img src="assets/images/games/dd/dd-3-ingame.jpg">
+    <img src="assets/images/games/dd/dd-3-ingame.jpg" alt="The starting point">
   </a>
 </div>
 
 <div class="card-wrapper picture">
   <a href="https://feierabend-crew.com/assets/images/games/dd/dd-4-skills.jpg">
-  <img src="assets/images/games/dd/dd-4-skills.jpg">
+  <img src="assets/images/games/dd/dd-4-skills.jpg" alt="Improving the character on a skillboard">
 </a>
 </div>
 
 <div class="card-wrapper picture">
   <a href="https://feierabend-crew.com/assets/images/games/dd/dd-5-card.jpg">
-  <img src="assets/images/games/dd/dd-5-card.jpg">
+  <img src="assets/images/games/dd/dd-5-card.jpg" alt="Drawing cards in Drinks & Dragons">
 </a>
 </div>
 
 <div class="card-wrapper picture">
   <a href="https://feierabend-crew.com/assets/images/games/dd/dd-1-rmv.jpg">
-  <img src="assets/images/games/dd/dd-1-rmv.jpg">
+  <img src="assets/images/games/dd/dd-1-rmv.jpg" alt="RPG Maker MV level editor">
 </a>
 </div>

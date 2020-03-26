@@ -78,30 +78,30 @@ syntaxHighlighter: no
 
 <div class="card-wrapper picture">
   <a href="https://feierabend-crew.com/assets/images/games/tfwa/tfwa-2-radio.jpg">
-    <img src="assets/images/games/tfwa/tfwa-2-radio.jpg">
+    <img src="assets/images/games/tfwa/tfwa-2-radio.jpg" alt="Radio with mini game instructions">
   </a>
 </div>
 
 <div class="card-wrapper picture">
   <a href="https://feierabend-crew.com/assets/images/games/tfwa/tfwa-3-results.jpg">
-    <img src="assets/images/games/tfwa/tfwa-3-results.jpg">
+    <img src="assets/images/games/tfwa/tfwa-3-results.jpg" alt="Mini game results">
   </a>
 </div>
 
 <div class="card-wrapper picture">
   <a href="https://feierabend-crew.com/assets/images/games/tfwa/tfwa-1-driving.jpg">
-    <img src="assets/images/games/tfwa/tfwa-1-driving.jpg">
+    <img src="assets/images/games/tfwa/tfwa-1-driving.jpg" alt="Bus driving mini game">
   </a>
 </div>
 
 <div class="card-wrapper picture">
   <a href="https://feierabend-crew.com/assets/images/games/tfwa/tfwa-4-shopping.jpg">
-    <img src="assets/images/games/tfwa/tfwa-4-shopping.jpg">
+    <img src="assets/images/games/tfwa/tfwa-4-shopping.jpg" alt="Grocery shopping mini game">
   </a>
 </div>
 
 <div class="card-wrapper picture">
   <a href="https://feierabend-crew.com/assets/images/games/tfwa/tfwa-5-day.jpg">
-    <img src="assets/images/games/tfwa/tfwa-5-day.jpg">
+    <img src="assets/images/games/tfwa/tfwa-5-day.jpg" alt="First day in The Friends We Are">
   </a>
 </div>
