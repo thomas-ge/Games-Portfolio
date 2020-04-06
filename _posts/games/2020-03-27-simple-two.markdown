@@ -74,24 +74,24 @@ syntaxHighlighter: no
 
 <div class="card-wrapper picture">
   <a href="https://feierabend-crew.com/assets/images/games/s2/s2-1-race.jpg">
-    <img src="assets/images/games/s2/s2-1-race.jpg" alt="2 players fail">
+    <img src="assets/images/games/s2/s2-1-race.jpg" alt="4 player racing">
   </a>
 </div>
 
 <div class="card-wrapper picture">
   <a href="https://feierabend-crew.com/assets/images/games/s2/s2-2-controls.jpg">
-    <img src="assets/images/games/s2/s2-2-controls.jpg" alt="Player one wins the round">
+    <img src="assets/images/games/s2/s2-2-controls.jpg" alt="In game control scheme">
   </a>
 </div>
 
 <div class="card-wrapper picture">
   <a href="https://feierabend-crew.com/assets/images/games/s2/s2-3-betting.jpg">
-    <img src="assets/images/games/s2/s2-3-betting.jpg" alt="Player one wins the round">
+    <img src="assets/images/games/s2/s2-3-betting.jpg" alt="Betting phase">
   </a>
 </div>
 
 <div class="card-wrapper picture">
   <a href="https://feierabend-crew.com/assets/images/games/s2/s2-4-winner.jpg">
-    <img src="assets/images/games/s2/s2-4-winner.jpg" alt="Title screen">
+    <img src="assets/images/games/s2/s2-4-winner.jpg" alt="Dr. Pylonus wins">
   </a>
 </div>

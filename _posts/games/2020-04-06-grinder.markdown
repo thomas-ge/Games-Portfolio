@@ -1,0 +1,100 @@
+---
+layout: post
+title:  "Grinder"
+category: MiniGames
+date:   2020-04-06 12:00:00
+excerpt: "Back to the skateboard roots with this grinding mini game."
+image:
+  feature: g-0-title.jpg
+  topPosition: 0px
+syntaxHighlighter: no
+---
+
+<div class="card-wrapper text paddings">
+  <h5>🚀 Bulletpitch</h5>
+  <p>How long can you keep your feet still in this competitive skateboard balancing game.</p>
+
+  <br>
+  <br>
+
+  <h5>💭 Game Idea</h5>
+  <p>
+    Everyone's trying their best to get the highest score with their Boardslide.
+    <br>
+    <br>
+    Try to keep your skateboard as straight as possible to stay on it and score high. Balancing is as easy as pressing the left and right buttons.
+    <br>
+    <br>
+    Outgrind your friends and get the best score.
+  </p>
+</div>
+
+<div class="card-wrapper info paddings">
+  <p>
+    1-5 players
+  </p>
+  <h6>Players</h6>
+  <br>
+  <p>
+    2–30 seconds per run
+  </p>
+  <h6>Duration</h6>
+  <br>
+  <p>
+    Balance your board
+    <br>
+    Score points
+  </p>
+  <h6>Core Elements</h6>
+  <br>
+  <p>
+    <div class="bar">
+      <div class="bar progress" style="width: 100%;"></div>
+    </div>
+  </p>
+  <h6 style="margin: -2px 0 0 0;">Status – Done</h6>
+</div>
+
+<div class="card-wrapper genre paddings" style="text-align: center;">
+  <h5 style="font-size: 70%; line-height: 1rem;">Skateboarding | Competitive</h5>
+</div>
+
+<div class="button-wrapper">
+  <div class="buttons">
+    <a href="https://feierabend-crew.com/games/grinder/index.html" target="_blank">
+      <div class="play-button interaction">
+        <h5 style="line-height: 1.4rem;">🤘Play</h5>
+      </div>
+    </a>
+    <div class="gap"></div>
+    <a href="https://github.com/thomas-theux/Grinder" target="_blank">
+      <div class="git-button interaction">
+        <h5 style="line-height: 1.3rem;">🤓GitHub Page</h5>
+      </div>
+    </a>
+  </div>
+</div>
+
+<div class="card-wrapper picture">
+  <a href="https://feierabend-crew.com/assets/images/games/g/g-1-countdown.jpg">
+    <img src="assets/images/games/g/g-1-countdown.jpg" alt="Countdown to grind">
+  </a>
+</div>
+
+<div class="card-wrapper picture">
+  <a href="https://feierabend-crew.com/assets/images/games/g/g-2-controls.jpg">
+    <img src="assets/images/games/g/g-2-controls.jpg" alt="In game control scheme">
+  </a>
+</div>
+
+<div class="card-wrapper picture">
+  <a href="https://feierabend-crew.com/assets/images/games/g/g-3-four-players.jpg">
+    <img src="assets/images/games/g/g-3-four-players.jpg" alt="4 player mode">
+  </a>
+</div>
+
+<div class="card-wrapper picture">
+  <a href="https://feierabend-crew.com/assets/images/games/g/g-4-scores.jpg">
+    <img src="assets/images/games/g/g-4-scores.jpg" alt="Showing the scores">
+  </a>
+</div>

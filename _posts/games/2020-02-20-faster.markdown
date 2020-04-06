@@ -81,18 +81,18 @@ syntaxHighlighter: no
 
 <div class="card-wrapper picture">
   <a href="https://feierabend-crew.com/assets/images/games/fas/fas-1-4players.jpg">
-    <img src="assets/images/games/fas/fas-1-4players.jpg" alt="Title screen">
+    <img src="assets/images/games/fas/fas-1-4players.jpg" alt="4 player mode">
   </a>
 </div>
 
 <div class="card-wrapper picture">
   <a href="https://feierabend-crew.com/assets/images/games/fas/fas-2-controls.jpg">
-    <img src="assets/images/games/fas/fas-2-controls.jpg" alt="2 players fail">
+    <img src="assets/images/games/fas/fas-2-controls.jpg" alt="In game control scheme">
   </a>
 </div>
 
 <div class="card-wrapper picture">
   <a href="https://feierabend-crew.com/assets/images/games/fas/fas-3-winner.jpg">
-    <img src="assets/images/games/fas/fas-3-winner.jpg" alt="Player one wins the round">
+    <img src="assets/images/games/fas/fas-3-winner.jpg" alt="Winner of the round">
   </a>
 </div>
