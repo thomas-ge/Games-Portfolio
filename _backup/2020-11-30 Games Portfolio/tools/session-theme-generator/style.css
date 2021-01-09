@@ -1,0 +1,211 @@
+body {
+    margin: 0;
+    font-family: Rubik;
+    background-color: #000;
+    color: #fff;
+}
+
+
+/* -------------------- */
+/* Desktop Optimization */
+/* -------------------- */
+
+@media screen and (min-width: 751px) {
+
+    h1 {
+        font-weight: 300;
+        font-size: 2vw;
+    }
+
+    p {
+        width: 100vw;
+        margin: .4em 0;
+        text-align: center;
+
+        position: fixed;
+        bottom: 8em;
+
+        /* background-color: #0ff; */
+    }
+
+    #head {
+        width: 96%;
+        margin: 0 auto;
+
+        /* background-color: #f00; */
+    }
+
+    #generator {
+        width: 40vw;
+        height: 4em;
+        margin: 1.6em auto;
+        text-align: center;
+
+        font-size: 4vw;
+        font-weight: 700;
+
+        /* background-color: #f0f; */
+    }
+
+    #interaction {
+        width: 100vw;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+
+        position: fixed;
+        bottom: 10em;
+        
+        /* background-color: #ff0; */
+    }
+    
+    .themes {
+        margin: .25em 0;
+        font-weight: 300;
+    }
+    
+    .button {
+        width: 240px;
+        border: none;
+        margin: 0;
+        padding: 8px 16px;
+        border-radius: 200px;
+        
+        color: #000;
+        font-size: 1.6vw;
+        font-weight: 100;
+        text-decoration: none;
+        text-align: center;
+
+        background-color: #fff;
+    }
+
+    .button:hover {
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+    .button:active {
+        background-color: #fff;
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+    input {
+        width: 240px;
+        height: 42px;
+        border: none;
+        margin: 0;
+        padding: .1em;
+
+        color: #000;
+        font-size: 1.6vw;
+        font-weight: 300;
+
+        background-color: rgb(40, 44, 52);
+    }
+
+}
+
+
+/* --------------------- */
+/* iPhone X Optimization */
+/* --------------------- */
+
+@media screen and (max-width: 980px) {
+
+    h1 {
+        font-weight: 300;
+        font-size: 5.2vw;
+
+        color: #000;
+    }
+
+    p {
+        margin: .4em 0;
+        text-align: center;
+        display: none;
+
+        /* background-color: #0ff; */
+    }
+
+    #head {
+        width: 100%;
+        position: fixed;
+        text-align: center;
+
+        background-color: #fff;
+    }
+
+    #generator {
+        width: 96vw;
+        height: 8em;
+        margin: 0 auto;
+        padding-top: 4em;
+        text-align: center;
+
+        font-size: 10vw;
+        font-weight: 700;
+        line-height: 14vw;
+
+        /* background-color: #00f; */
+    }
+
+    #interaction {
+        width: 96vw;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+
+        position: fixed;
+        bottom: 10vw;
+
+        /* background-color: #ff0; */
+    }
+
+    .themes {
+        font-weight: 300;
+    }
+
+    .button {
+        width: 80vw;
+        border: none;
+        margin: 0;
+        padding: 16px 16px;
+        border-radius: 200px;
+
+        color: #000;
+        font-size: 8vw;
+        font-weight: 100;
+        text-decoration: none;
+        text-align: center;
+
+        background-color: #fff;
+    }
+
+    .button:hover {
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+    .button:active {
+        background-color: #fff;
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+    input {
+        width: 240px;
+        height: 42px;
+        border: none;
+        margin: 0;
+        padding: .1em;
+
+        color: #fff;
+        font-size: 1.6vw;
+        font-weight: 300;
+
+        background-color: #fff;
+    }
+
+}

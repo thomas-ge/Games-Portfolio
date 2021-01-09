@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Feierabend Crew</title>
+		<description>The Feierabend Crew believes in couch games.</description>
+		<link>https://feierabend-crew.com/</link>
+		<atom:link href="https://feierabend-crew.com//feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Grinder</title>
+				
+				
+					<description>Back to the skateboard roots with this grinding mini game.</description>
+				
+				<pubDate>Mon, 06 Apr 2020 14:00:00 +0200</pubDate>
+				<link>https://feierabend-crew.com//grinder.html</link>
+				<guid isPermaLink="true">https://feierabend-crew.com//grinder.html</guid>
+			</item>
+		
+			<item>
+				<title>Simple Two</title>
+				
+				
+					<description>The remake of Simple: An insanely short racing game for players who love competition.</description>
+				
+				<pubDate>Fri, 27 Mar 2020 13:00:00 +0100</pubDate>
+				<link>https://feierabend-crew.com//simple-two.html</link>
+				<guid isPermaLink="true">https://feierabend-crew.com//simple-two.html</guid>
+			</item>
+		
+			<item>
+				<title>faster!</title>
+				
+				
+					<description>A short game where up to 7 players battle for the fastest button press.</description>
+				
+				<pubDate>Thu, 20 Feb 2020 13:00:00 +0100</pubDate>
+				<link>https://feierabend-crew.com//faster.html</link>
+				<guid isPermaLink="true">https://feierabend-crew.com//faster.html</guid>
+			</item>
+		
+			<item>
+				<title>Team Name Creator</title>
+				
+				
+					<description>Looking for a team name that catches everyones attention?</description>
+				
+				<pubDate>Sat, 18 Jan 2020 13:00:00 +0100</pubDate>
+				<link>https://feierabend-crew.com//team-names.html</link>
+				<guid isPermaLink="true">https://feierabend-crew.com//team-names.html</guid>
+			</item>
+		
+			<item>
+				<title>Runner Runner</title>
+				
+				
+					<description>A competitive platform racer with surprising events.</description>
+				
+				<pubDate>Sat, 28 Dec 2019 13:00:00 +0100</pubDate>
+				<link>https://feierabend-crew.com//runner-runner.html</link>
+				<guid isPermaLink="true">https://feierabend-crew.com//runner-runner.html</guid>
+			</item>
+		
+			<item>
+				<title>Studio Name Creator</title>
+				
+				
+					<description>Still did not find an awesome name for your very own studio?</description>
+				
+				<pubDate>Sat, 01 Dec 2018 13:00:00 +0100</pubDate>
+				<link>https://feierabend-crew.com//studio-names.html</link>
+				<guid isPermaLink="true">https://feierabend-crew.com//studio-names.html</guid>
+			</item>
+		
+			<item>
+				<title>Ideatify</title>
+				
+				
+					<description>Get your game development rollin' with this idea generator.</description>
+				
+				<pubDate>Sat, 01 Dec 2018 13:00:00 +0100</pubDate>
+				<link>https://feierabend-crew.com//ideatify.html</link>
+				<guid isPermaLink="true">https://feierabend-crew.com//ideatify.html</guid>
+			</item>
+		
+			<item>
+				<title>The Friends We Are</title>
+				
+				
+					<description>A road trip game for two friends experiencing the most adventurous situations.</description>
+				
+				<pubDate>Sat, 01 Dec 2018 13:00:00 +0100</pubDate>
+				<link>https://feierabend-crew.com//the-friends-we-are.html</link>
+				<guid isPermaLink="true">https://feierabend-crew.com//the-friends-we-are.html</guid>
+			</item>
+		
+			<item>
+				<title>Feierabend Heroes</title>
+				
+				
+					<description>A competitive fantasy Hack‘n‘Slay Battle Royale with skill development.</description>
+				
+				<pubDate>Mon, 01 Oct 2018 14:00:00 +0200</pubDate>
+				<link>https://feierabend-crew.com//feierabend-heroes.html</link>
+				<guid isPermaLink="true">https://feierabend-crew.com//feierabend-heroes.html</guid>
+			</item>
+		
+			<item>
+				<title>Drinks &amp; Dragons</title>
+				
+				
+					<description>A ridiculous drinking RPG board game for close friends.</description>
+				
+				<pubDate>Sun, 01 Apr 2018 14:00:00 +0200</pubDate>
+				<link>https://feierabend-crew.com//drinks-and-dragons.html</link>
+				<guid isPermaLink="true">https://feierabend-crew.com//drinks-and-dragons.html</guid>
+			</item>
+		
+	</channel>
+</rss>

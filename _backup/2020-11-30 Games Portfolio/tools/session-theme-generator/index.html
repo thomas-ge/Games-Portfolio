@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        
+        <script src="generate.js"></script>
+        <link rel="stylesheet" type="text/css" href="style.css" />
+
+        <link href="https://fonts.googleapis.com/css?family=Rubik:300,700" rel="stylesheet">
+    </head>
+
+    <body onkeydown = "if (event.keyCode == 32) window.location.reload()">
+
+        <div id="head">
+            <h1>Super Geiler Session Theme Generator</h1>
+        </div>
+
+        <div id="generator">
+            <div class="themes">
+                <script type="text/javascript">generateTheme("📻", " Musik");</script>
+            </div>
+
+            <div class="themes">
+                <script type="text/javascript">generateTheme("👔", " Klamotten");</script>
+            </div>
+
+            <div class="themes">
+                <script type="text/javascript">generateTheme("🍹", " Drinks");</script>
+            </div>
+        </div>
+
+        <div id="interaction">
+            <a class="button" onClick="window.location.reload()">Nochmal!</a>
+        </div>
+        <p>- oder Leertaste drücken -</p>
+
+    </body>
+</html>
